@@ -1,2 +1,1 @@
-# acadview_bharathgane
-Assignment submissions 
+This is a repo to submit assignments to acadview.
